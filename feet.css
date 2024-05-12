@@ -1,0 +1,45 @@
+nav > ul > li {
+    list-style: none;
+    margin-top: 2rem;
+    
+}
+nav > ul > img {
+    margin-left: 35rem;
+
+}
+.home {
+    margin-left: 3rem;
+    margin-top: 2rem;
+
+}
+.sect1 {
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+.sect2 {
+    margin-left: 3rem;
+}
+.sect2 > img {
+    width: 27rem;
+    height: 15rem;
+    margin-left: 15rem;
+
+}
+.sect2 > h3 {
+    margin-top: 3rem;
+    margin-left: 25rem;
+    
+}
+.sect2 > p > ul {
+    margin-left: 3rem;
+}
+.sect3 {
+    margin-left: 3rem;
+    border: 1px solid white;
+    width: 40rem;
+}
+.sect4 {
+    margin-left: 3rem;
+    border: 1px solid white;
+    width: 40rem;
+}

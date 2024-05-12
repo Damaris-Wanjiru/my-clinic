@@ -1,0 +1,30 @@
+nav > ul > li {
+    margin-top: 2rem;
+    margin-left: 3rem;
+    list-style: none;
+    display: grid;
+}
+nav > ul > img {
+    margin-left: 35rem;
+}
+.home {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.head1 {
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+.head2 {
+    margin-left: 3rem;
+}
+.head2 > img {
+    width: 30rem;
+    height: 15rem;
+}
+.foot {
+    margin-left: 3rem;
+    margin-top: 2rem;
+    border: 1px solid white;
+    width: 40rem;
+}

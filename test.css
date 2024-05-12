@@ -1,0 +1,52 @@
+
+nav > ul > li {
+    list-style: none;
+    background-color: white;
+    margin-top: 2rem;
+}
+.home {
+   margin-top: 2.4rem;
+   margin-left: 2rem;
+}
+nav > ul > li > img {
+   margin-left: 2rem;
+}
+.june {
+    margin-left: 3rem;
+    color: #4c5b61;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.body-sec1 {
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+.body-sec1 > p{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.symptoms {
+    display: flex;
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+
+.symptoms > img {
+    width: 50rem;
+    height: 30rem;
+    float: right;
+    margin-right: 6rem;
+}
+.risk {
+    margin-left: 3rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.foot {
+    margin-left: 3rem;
+    font-weight: 600;
+    font-size: 1.2;
+    border: 1px solid white;
+    width: 40rem;
+}
